@@ -13,6 +13,19 @@ Headings requires space separator in Github
 ## H4
 
 ---
+## List
+
+Lists need a blank line in BB
+
+* item 1
+* item 2
+
+Blank line not needed in GH 
+* item 1
+* item 2
+
+---
+
 
 ## Table
 Tables need balanced delimiters | in Github
@@ -60,3 +73,7 @@ Good:
 ## Graphics
 
 Html characters not supported in BB: e.g. &#8593;
+
+## Link to a different page
+
+[Click here to open docs/readme.md](docs/README.md)
